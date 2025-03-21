@@ -1,4 +1,4 @@
-Overview: This repository contains a Google Colab Notebook for detecting deepfake audio using machine learning techniques. The notebook includes data preprocessing, feature extraction, and model training to classify real and fake audio samples.
+Overview: This repository contains a Google Colab Notebook for detecting deepfake audio using machine learning and deep learning techniques. The notebook includes data preprocessing, feature extraction, and model training to classify real and fake audio samples.
 
 Features:
 
